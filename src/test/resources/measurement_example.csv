@@ -1,0 +1,144 @@
+"person_id","measurement_concept_id","assay_id","assay_label","value_as_number","value_id","value_label","measurement_datetime","unit_id","unit_label","range_low","range_high","concept_id","unit_source_value","visit_occurrence_id","row_number"
+1,3024929,"LOINC:777-3","Platelets [#/volume] in Blood by Automated count",246.7,"None:No matching concept","246.7","2012-05-24 00:00:00","UCUM:10*3/uL","thousand per microliter",NULL,NULL,8848,"10*3/uL",13,1
+1,3024171,"LOINC:9279-1","Respiratory rate",13.0,"None:No matching concept","13.0","2012-05-24 00:00:00","UCUM:/min","per minute",NULL,NULL,8541,"/min",13,2
+1,3000905,"LOINC:6690-2","Leukocytes [#/volume] in Blood by Automated count",9.5,"None:No matching concept","9.5","2012-05-24 00:00:00","UCUM:10*3/uL","thousand per microliter",NULL,NULL,8848,"10*3/uL",13,3
+1,3020416,"LOINC:789-8","Erythrocytes [#/volume] in Blood by Automated count",5.3,"None:No matching concept","5.3","2012-05-24 00:00:00","UCUM:10*6/uL","million per microliter",NULL,NULL,8815,"10*6/uL",13,4
+1,3027018,"LOINC:8867-4","Heart rate",82.0,"None:No matching concept","82.0","2012-05-24 00:00:00","UCUM:/min","per minute",NULL,NULL,8541,"/min",13,5
+1,3038553,"LOINC:39156-5","Body mass index (BMI) [Ratio]",16.9,"None:No matching concept","16.9","2012-05-24 00:00:00","UCUM:kg/m2","kilogram per square meter",NULL,NULL,9531,"kg/m2",13,6
+1,3012888,"LOINC:8462-4","Diastolic blood pressure",87.0,"None:No matching concept","87.0","2012-05-24 00:00:00","UCUM:mm[Hg]","millimeter mercury column",NULL,NULL,8876,"mm[Hg]",13,7
+1,3004249,"LOINC:8480-6","Systolic blood pressure",132.0,"None:No matching concept","132.0","2012-05-24 00:00:00","UCUM:mm[Hg]","millimeter mercury column",NULL,NULL,8876,"mm[Hg]",13,8
+1,3015182,"LOINC:21000-5","Erythrocyte distribution width [Entitic volume] by Automated count",44.3,"None:No matching concept","44.3","2012-05-24 00:00:00","UCUM:fL","femtoliter",NULL,NULL,8583,"fL",13,9
+1,3025315,"LOINC:29463-7","Body weight",37.7,"None:No matching concept","37.7","2012-05-24 00:00:00","UCUM:kg","kilogram",NULL,NULL,9529,"kg",13,10
+1,3043111,"LOINC:32623-1","Platelet mean volume [Entitic volume] in Blood by Automated count",9.7,"None:No matching concept","9.7","2012-05-24 00:00:00","UCUM:fL","femtoliter",NULL,NULL,8583,"fL",13,11
+1,3002736,"LOINC:32207-3","Platelet distribution width [Entitic volume] in Blood by Automated count",297.4,"None:No matching concept","297.4","2012-05-24 00:00:00","UCUM:fL","femtoliter",NULL,NULL,8583,"fL",13,12
+1,40762638,"LOINC:59576-9","Body mass index (BMI) [Percentile] Per age and sex",40.4,"None:No matching concept","40.4","2012-05-24 00:00:00","UCUM:%","percent",NULL,NULL,8554,"%",13,13
+1,3023314,"LOINC:4544-3","Hematocrit [Volume Fraction] of Blood by Automated count",47.5,"None:No matching concept","47.5","2012-05-24 00:00:00","UCUM:%","percent",NULL,NULL,8554,"%",13,14
+1,3023599,"LOINC:787-2","MCV [Entitic volume] by Automated count",81.9,"None:No matching concept","81.9","2012-05-24 00:00:00","UCUM:fL","femtoliter",NULL,NULL,8583,"fL",13,15
+1,43055141,"LOINC:72514-3","Pain severity - 0-10 verbal numeric rating [Score] - Reported",1.0,"None:No matching concept","1.0","2012-05-24 00:00:00","None:No matching concept","No matching concept",NULL,NULL,0,"{score}",13,16
+1,3012030,"LOINC:785-6","MCH [Entitic mass] by Automated count",27.9,"None:No matching concept","27.9","2012-05-24 00:00:00","UCUM:pg","picogram",NULL,NULL,8564,"pg",13,17
+1,3000963,"LOINC:718-7","Hemoglobin [Mass/volume] in Blood",15.6,"None:No matching concept","15.6","2012-05-24 00:00:00","UCUM:g/dL","gram per deciliter",NULL,NULL,8713,"g/dL",13,18
+1,3036277,"LOINC:8302-2","Body height",149.4,"None:No matching concept","149.4","2012-05-24 00:00:00","UCUM:cm","centimeter",NULL,NULL,8582,"cm",13,19
+1,3009744,"LOINC:786-4","MCHC [Mass/volume] by Automated count",33.0,"None:No matching concept","33.0","2012-05-24 00:00:00","UCUM:g/dL","gram per deciliter",NULL,NULL,8713,"g/dL",13,20
+1,43055141,"LOINC:72514-3","Pain severity - 0-10 verbal numeric rating [Score] - Reported",0.0,"None:No matching concept","0.0","2013-05-30 00:00:00","None:No matching concept","No matching concept",NULL,NULL,0,"{score}",9,1
+1,3036277,"LOINC:8302-2","Body height",156.7,"None:No matching concept","156.7","2013-05-30 00:00:00","UCUM:cm","centimeter",NULL,NULL,8582,"cm",9,2
+1,3024171,"LOINC:9279-1","Respiratory rate",13.0,"None:No matching concept","13.0","2013-05-30 00:00:00","UCUM:/min","per minute",NULL,NULL,8541,"/min",9,3
+1,3027018,"LOINC:8867-4","Heart rate",71.0,"None:No matching concept","71.0","2013-05-30 00:00:00","UCUM:/min","per minute",NULL,NULL,8541,"/min",9,4
+1,3012888,"LOINC:8462-4","Diastolic blood pressure",86.0,"None:No matching concept","86.0","2013-05-30 00:00:00","UCUM:mm[Hg]","millimeter mercury column",NULL,NULL,8876,"mm[Hg]",9,5
+1,3038553,"LOINC:39156-5","Body mass index (BMI) [Ratio]",17.3,"None:No matching concept","17.3","2013-05-30 00:00:00","UCUM:kg/m2","kilogram per square meter",NULL,NULL,9531,"kg/m2",9,6
+1,40762638,"LOINC:59576-9","Body mass index (BMI) [Percentile] Per age and sex",37.8,"None:No matching concept","37.8","2013-05-30 00:00:00","UCUM:%","percent",NULL,NULL,8554,"%",9,7
+1,3025315,"LOINC:29463-7","Body weight",42.5,"None:No matching concept","42.5","2013-05-30 00:00:00","UCUM:kg","kilogram",NULL,NULL,9529,"kg",9,8
+1,3004249,"LOINC:8480-6","Systolic blood pressure",112.0,"None:No matching concept","112.0","2013-05-30 00:00:00","UCUM:mm[Hg]","millimeter mercury column",NULL,NULL,8876,"mm[Hg]",9,9
+1,3004249,"LOINC:8480-6","Systolic blood pressure",117.0,"None:No matching concept","117.0","2014-06-05 00:00:00","UCUM:mm[Hg]","millimeter mercury column",NULL,NULL,8876,"mm[Hg]",1,1
+1,40762638,"LOINC:59576-9","Body mass index (BMI) [Percentile] Per age and sex",44.5,"None:No matching concept","44.5","2014-06-05 00:00:00","UCUM:%","percent",NULL,NULL,8554,"%",1,2
+1,3038553,"LOINC:39156-5","Body mass index (BMI) [Ratio]",18.4,"None:No matching concept","18.4","2014-06-05 00:00:00","UCUM:kg/m2","kilogram per square meter",NULL,NULL,9531,"kg/m2",1,3
+1,3012888,"LOINC:8462-4","Diastolic blood pressure",79.0,"None:No matching concept","79.0","2014-06-05 00:00:00","UCUM:mm[Hg]","millimeter mercury column",NULL,NULL,8876,"mm[Hg]",1,4
+1,3025315,"LOINC:29463-7","Body weight",48.3,"None:No matching concept","48.3","2014-06-05 00:00:00","UCUM:kg","kilogram",NULL,NULL,9529,"kg",1,5
+1,3036277,"LOINC:8302-2","Body height",162.2,"None:No matching concept","162.2","2014-06-05 00:00:00","UCUM:cm","centimeter",NULL,NULL,8582,"cm",1,6
+1,43055141,"LOINC:72514-3","Pain severity - 0-10 verbal numeric rating [Score] - Reported",2.0,"None:No matching concept","2.0","2014-06-05 00:00:00","None:No matching concept","No matching concept",NULL,NULL,0,"{score}",1,7
+1,3024171,"LOINC:9279-1","Respiratory rate",16.0,"None:No matching concept","16.0","2014-06-05 00:00:00","UCUM:/min","per minute",NULL,NULL,8541,"/min",1,8
+1,3027018,"LOINC:8867-4","Heart rate",97.0,"None:No matching concept","97.0","2014-06-05 00:00:00","UCUM:/min","per minute",NULL,NULL,8541,"/min",1,9
+1,3024171,"LOINC:9279-1","Respiratory rate",14.0,"None:No matching concept","14.0","2015-06-11 00:00:00","UCUM:/min","per minute",NULL,NULL,8541,"/min",23,1
+1,3027018,"LOINC:8867-4","Heart rate",76.0,"None:No matching concept","76.0","2015-06-11 00:00:00","UCUM:/min","per minute",NULL,NULL,8541,"/min",23,2
+1,3025315,"LOINC:29463-7","Body weight",58.3,"None:No matching concept","58.3","2015-06-11 00:00:00","UCUM:kg","kilogram",NULL,NULL,9529,"kg",23,3
+1,40762638,"LOINC:59576-9","Body mass index (BMI) [Percentile] Per age and sex",71.7,"None:No matching concept","71.7","2015-06-11 00:00:00","UCUM:%","percent",NULL,NULL,8554,"%",23,4
+1,3004249,"LOINC:8480-6","Systolic blood pressure",117.0,"None:No matching concept","117.0","2015-06-11 00:00:00","UCUM:mm[Hg]","millimeter mercury column",NULL,NULL,8876,"mm[Hg]",23,5
+1,3012888,"LOINC:8462-4","Diastolic blood pressure",77.0,"None:No matching concept","77.0","2015-06-11 00:00:00","UCUM:mm[Hg]","millimeter mercury column",NULL,NULL,8876,"mm[Hg]",23,6
+1,3038553,"LOINC:39156-5","Body mass index (BMI) [Ratio]",21.4,"None:No matching concept","21.4","2015-06-11 00:00:00","UCUM:kg/m2","kilogram per square meter",NULL,NULL,9531,"kg/m2",23,7
+1,3036277,"LOINC:8302-2","Body height",165.3,"None:No matching concept","165.3","2015-06-11 00:00:00","UCUM:cm","centimeter",NULL,NULL,8582,"cm",23,8
+1,43055141,"LOINC:72514-3","Pain severity - 0-10 verbal numeric rating [Score] - Reported",4.0,"None:No matching concept","4.0","2015-06-11 00:00:00","None:No matching concept","No matching concept",NULL,NULL,0,"{score}",23,9
+1,43055141,"LOINC:72514-3","Pain severity - 0-10 verbal numeric rating [Score] - Reported",3.0,"None:No matching concept","3.0","2016-06-16 00:00:00","None:No matching concept","No matching concept",NULL,NULL,0,"{score}",24,1
+1,3036277,"LOINC:8302-2","Body height",166.6,"None:No matching concept","166.6","2016-06-16 00:00:00","UCUM:cm","centimeter",NULL,NULL,8582,"cm",24,2
+1,3027018,"LOINC:8867-4","Heart rate",75.0,"None:No matching concept","75.0","2016-06-16 00:00:00","UCUM:/min","per minute",NULL,NULL,8541,"/min",24,3
+1,3024171,"LOINC:9279-1","Respiratory rate",15.0,"None:No matching concept","15.0","2016-06-16 00:00:00","UCUM:/min","per minute",NULL,NULL,8541,"/min",24,4
+1,3012888,"LOINC:8462-4","Diastolic blood pressure",84.0,"None:No matching concept","84.0","2016-06-16 00:00:00","UCUM:mm[Hg]","millimeter mercury column",NULL,NULL,8876,"mm[Hg]",24,5
+1,3038553,"LOINC:39156-5","Body mass index (BMI) [Ratio]",22.0,"None:No matching concept","22.0","2016-06-16 00:00:00","UCUM:kg/m2","kilogram per square meter",NULL,NULL,9531,"kg/m2",24,6
+1,40762638,"LOINC:59576-9","Body mass index (BMI) [Percentile] Per age and sex",71.6,"None:No matching concept","71.6","2016-06-16 00:00:00","UCUM:%","percent",NULL,NULL,8554,"%",24,7
+1,3025315,"LOINC:29463-7","Body weight",60.9,"None:No matching concept","60.9","2016-06-16 00:00:00","UCUM:kg","kilogram",NULL,NULL,9529,"kg",24,8
+1,3004249,"LOINC:8480-6","Systolic blood pressure",120.0,"None:No matching concept","120.0","2016-06-16 00:00:00","UCUM:mm[Hg]","millimeter mercury column",NULL,NULL,8876,"mm[Hg]",24,9
+1,3002736,"LOINC:32207-3","Platelet distribution width [Entitic volume] in Blood by Automated count",515.1,"None:No matching concept","515.1","2017-06-22 00:00:00","UCUM:fL","femtoliter",NULL,NULL,8583,"fL",6,1
+1,3038553,"LOINC:39156-5","Body mass index (BMI) [Ratio]",21.3,"None:No matching concept","21.3","2017-06-22 00:00:00","UCUM:kg/m2","kilogram per square meter",NULL,NULL,9531,"kg/m2",6,2
+1,40762638,"LOINC:59576-9","Body mass index (BMI) [Percentile] Per age and sex",59.8,"None:No matching concept","59.8","2017-06-22 00:00:00","UCUM:%","percent",NULL,NULL,8554,"%",6,3
+1,3025315,"LOINC:29463-7","Body weight",59.5,"None:No matching concept","59.5","2017-06-22 00:00:00","UCUM:kg","kilogram",NULL,NULL,9529,"kg",6,4
+1,3012888,"LOINC:8462-4","Diastolic blood pressure",73.0,"None:No matching concept","73.0","2017-06-22 00:00:00","UCUM:mm[Hg]","millimeter mercury column",NULL,NULL,8876,"mm[Hg]",6,5
+1,3043111,"LOINC:32623-1","Platelet mean volume [Entitic volume] in Blood by Automated count",12.2,"None:No matching concept","12.2","2017-06-22 00:00:00","UCUM:fL","femtoliter",NULL,NULL,8583,"fL",6,6
+1,3004249,"LOINC:8480-6","Systolic blood pressure",129.0,"None:No matching concept","129.0","2017-06-22 00:00:00","UCUM:mm[Hg]","millimeter mercury column",NULL,NULL,8876,"mm[Hg]",6,7
+1,3015182,"LOINC:21000-5","Erythrocyte distribution width [Entitic volume] by Automated count",43.0,"None:No matching concept","43.0","2017-06-22 00:00:00","UCUM:fL","femtoliter",NULL,NULL,8583,"fL",6,8
+1,3023314,"LOINC:4544-3","Hematocrit [Volume Fraction] of Blood by Automated count",35.2,"None:No matching concept","35.2","2017-06-22 00:00:00","UCUM:%","percent",NULL,NULL,8554,"%",6,9
+1,3023599,"LOINC:787-2","MCV [Entitic volume] by Automated count",92.6,"None:No matching concept","92.6","2017-06-22 00:00:00","UCUM:fL","femtoliter",NULL,NULL,8583,"fL",6,10
+1,3036277,"LOINC:8302-2","Body height",167.2,"None:No matching concept","167.2","2017-06-22 00:00:00","UCUM:cm","centimeter",NULL,NULL,8582,"cm",6,11
+1,3012030,"LOINC:785-6","MCH [Entitic mass] by Automated count",31.7,"None:No matching concept","31.7","2017-06-22 00:00:00","UCUM:pg","picogram",NULL,NULL,8564,"pg",6,12
+1,43055141,"LOINC:72514-3","Pain severity - 0-10 verbal numeric rating [Score] - Reported",3.0,"None:No matching concept","3.0","2017-06-22 00:00:00","None:No matching concept","No matching concept",NULL,NULL,0,"{score}",6,13
+1,3009744,"LOINC:786-4","MCHC [Mass/volume] by Automated count",34.2,"None:No matching concept","34.2","2017-06-22 00:00:00","UCUM:g/dL","gram per deciliter",NULL,NULL,8713,"g/dL",6,14
+1,3000963,"LOINC:718-7","Hemoglobin [Mass/volume] in Blood",14.9,"None:No matching concept","14.9","2017-06-22 00:00:00","UCUM:g/dL","gram per deciliter",NULL,NULL,8713,"g/dL",6,15
+1,3024171,"LOINC:9279-1","Respiratory rate",13.0,"None:No matching concept","13.0","2017-06-22 00:00:00","UCUM:/min","per minute",NULL,NULL,8541,"/min",6,16
+1,3027018,"LOINC:8867-4","Heart rate",99.0,"None:No matching concept","99.0","2017-06-22 00:00:00","UCUM:/min","per minute",NULL,NULL,8541,"/min",6,17
+1,3020416,"LOINC:789-8","Erythrocytes [#/volume] in Blood by Automated count",4.5,"None:No matching concept","4.5","2017-06-22 00:00:00","UCUM:10*6/uL","million per microliter",NULL,NULL,8815,"10*6/uL",6,18
+1,3000905,"LOINC:6690-2","Leukocytes [#/volume] in Blood by Automated count",8.0,"None:No matching concept","8.0","2017-06-22 00:00:00","UCUM:10*3/uL","thousand per microliter",NULL,NULL,8848,"10*3/uL",6,19
+1,3024929,"LOINC:777-3","Platelets [#/volume] in Blood by Automated count",363.8,"None:No matching concept","363.8","2017-06-22 00:00:00","UCUM:10*3/uL","thousand per microliter",NULL,NULL,8848,"10*3/uL",6,20
+1,3027018,"LOINC:8867-4","Heart rate",84.0,"None:No matching concept","84.0","2018-06-28 00:00:00","UCUM:/min","per minute",NULL,NULL,8541,"/min",20,1
+1,3024171,"LOINC:9279-1","Respiratory rate",13.0,"None:No matching concept","13.0","2018-06-28 00:00:00","UCUM:/min","per minute",NULL,NULL,8541,"/min",20,2
+1,3038553,"LOINC:39156-5","Body mass index (BMI) [Ratio]",20.4,"None:No matching concept","20.4","2018-06-28 00:00:00","UCUM:kg/m2","kilogram per square meter",NULL,NULL,9531,"kg/m2",20,3
+1,3012888,"LOINC:8462-4","Diastolic blood pressure",85.0,"None:No matching concept","85.0","2018-06-28 00:00:00","UCUM:mm[Hg]","millimeter mercury column",NULL,NULL,8876,"mm[Hg]",20,4
+1,40762638,"LOINC:59576-9","Body mass index (BMI) [Percentile] Per age and sex",42.5,"None:No matching concept","42.5","2018-06-28 00:00:00","UCUM:%","percent",NULL,NULL,8554,"%",20,5
+1,3004249,"LOINC:8480-6","Systolic blood pressure",119.0,"None:No matching concept","119.0","2018-06-28 00:00:00","UCUM:mm[Hg]","millimeter mercury column",NULL,NULL,8876,"mm[Hg]",20,6
+1,3025315,"LOINC:29463-7","Body weight",57.2,"None:No matching concept","57.2","2018-06-28 00:00:00","UCUM:kg","kilogram",NULL,NULL,9529,"kg",20,7
+1,43055141,"LOINC:72514-3","Pain severity - 0-10 verbal numeric rating [Score] - Reported",4.0,"None:No matching concept","4.0","2018-06-28 00:00:00","None:No matching concept","No matching concept",NULL,NULL,0,"{score}",20,8
+1,3036277,"LOINC:8302-2","Body height",167.5,"None:No matching concept","167.5","2018-06-28 00:00:00","UCUM:cm","centimeter",NULL,NULL,8582,"cm",20,9
+1,43055141,"LOINC:72514-3","Pain severity - 0-10 verbal numeric rating [Score] - Reported",1.0,"None:No matching concept","1.0","2019-07-04 00:00:00","None:No matching concept","No matching concept",NULL,NULL,0,"{score}",4,1
+1,3036277,"LOINC:8302-2","Body height",167.7,"None:No matching concept","167.7","2019-07-04 00:00:00","UCUM:cm","centimeter",NULL,NULL,8582,"cm",4,2
+1,3027018,"LOINC:8867-4","Heart rate",81.0,"None:No matching concept","81.0","2019-07-04 00:00:00","UCUM:/min","per minute",NULL,NULL,8541,"/min",4,3
+1,3024171,"LOINC:9279-1","Respiratory rate",14.0,"None:No matching concept","14.0","2019-07-04 00:00:00","UCUM:/min","per minute",NULL,NULL,8541,"/min",4,4
+1,3004249,"LOINC:8480-6","Systolic blood pressure",146.0,"None:No matching concept","146.0","2019-07-04 00:00:00","UCUM:mm[Hg]","millimeter mercury column",NULL,NULL,8876,"mm[Hg]",4,5
+1,40762638,"LOINC:59576-9","Body mass index (BMI) [Percentile] Per age and sex",29.7,"None:No matching concept","29.7","2019-07-04 00:00:00","UCUM:%","percent",NULL,NULL,8554,"%",4,6
+1,3012888,"LOINC:8462-4","Diastolic blood pressure",114.0,"None:No matching concept","114.0","2019-07-04 00:00:00","UCUM:mm[Hg]","millimeter mercury column",NULL,NULL,8876,"mm[Hg]",4,7
+1,3025315,"LOINC:29463-7","Body weight",55.7,"None:No matching concept","55.7","2019-07-04 00:00:00","UCUM:kg","kilogram",NULL,NULL,9529,"kg",4,8
+1,3038553,"LOINC:39156-5","Body mass index (BMI) [Ratio]",19.8,"None:No matching concept","19.8","2019-07-04 00:00:00","UCUM:kg/m2","kilogram per square meter",NULL,NULL,9531,"kg/m2",4,9
+1,3004249,"LOINC:8480-6","Systolic blood pressure",161.0,"None:No matching concept","161.0","2019-08-03 00:00:00","UCUM:mm[Hg]","millimeter mercury column",NULL,NULL,8876,"mm[Hg]",2,1
+1,3012888,"LOINC:8462-4","Diastolic blood pressure",99.0,"None:No matching concept","99.0","2019-08-03 00:00:00","UCUM:mm[Hg]","millimeter mercury column",NULL,NULL,8876,"mm[Hg]",2,2
+1,3012888,"LOINC:8462-4","Diastolic blood pressure",75.0,"None:No matching concept","75.0","2019-10-02 00:00:00","UCUM:mm[Hg]","millimeter mercury column",NULL,NULL,8876,"mm[Hg]",14,1
+1,3004249,"LOINC:8480-6","Systolic blood pressure",110.0,"None:No matching concept","110.0","2019-10-02 00:00:00","UCUM:mm[Hg]","millimeter mercury column",NULL,NULL,8876,"mm[Hg]",14,2
+1,3004249,"LOINC:8480-6","Systolic blood pressure",127.0,"None:No matching concept","127.0","2019-12-01 00:00:00","UCUM:mm[Hg]","millimeter mercury column",NULL,NULL,8876,"mm[Hg]",12,1
+1,3012888,"LOINC:8462-4","Diastolic blood pressure",71.0,"None:No matching concept","71.0","2019-12-01 00:00:00","UCUM:mm[Hg]","millimeter mercury column",NULL,NULL,8876,"mm[Hg]",12,2
+1,3025315,"LOINC:29463-7","Body weight",54.1,"None:No matching concept","54.1","2020-03-07 00:00:00","UCUM:kg","kilogram",NULL,NULL,9529,"kg",7,1
+1,3004249,"LOINC:8480-6","Systolic blood pressure",128.0,"None:No matching concept","128.0","2020-03-07 00:00:00","UCUM:mm[Hg]","millimeter mercury column",NULL,NULL,8876,"mm[Hg]",7,2
+1,3012888,"LOINC:8462-4","Diastolic blood pressure",81.0,"None:No matching concept","81.0","2020-03-07 00:00:00","UCUM:mm[Hg]","millimeter mercury column",NULL,NULL,8876,"mm[Hg]",7,3
+1,3016502,"LOINC:2708-6","Oxygen saturation in Arterial blood",82.7,"None:No matching concept","82.7","2020-03-07 00:00:00","UCUM:%","percent",NULL,NULL,8554,"%",7,4
+1,3020891,"LOINC:8310-5","Body temperature",41.2,"None:No matching concept","41.2","2020-03-07 00:00:00","UCUM:Cel","degree Celsius",NULL,NULL,586323,"Cel",7,5
+1,37019613,"LOINC:92139-5","Parainfluenza virus 2 RNA [Presence] in Respiratory specimen by NAA with probe detection",NULL,"None:No matching concept","Negative (qualifier value)","2020-03-07 00:00:00","None:No matching concept","No matching concept",NULL,NULL,0,NULL,7,6
+1,37020635,"LOINC:92142-9","Influenza virus A RNA [Presence] in Respiratory specimen by NAA with probe detection",NULL,"None:No matching concept","Negative (qualifier value)","2020-03-07 00:00:00","None:No matching concept","No matching concept",NULL,NULL,0,NULL,7,7
+1,706158,"LOINC:94531-1","SARS-CoV-2 (COVID-19) RNA panel - Respiratory specimen by NAA with probe detection",NULL,"None:No matching concept","Detected (qualifier value)","2020-03-07 00:00:00","None:No matching concept","No matching concept",NULL,NULL,0,NULL,7,8
+1,37021465,"LOINC:92138-7","Parainfluenza virus 3 RNA [Presence] in Respiratory specimen by NAA with probe detection",NULL,"None:No matching concept","Negative (qualifier value)","2020-03-07 00:00:00","None:No matching concept","No matching concept",NULL,NULL,0,NULL,7,9
+1,37020003,"LOINC:92130-4","Rhinovirus RNA [Presence] in Respiratory specimen by NAA with probe detection",NULL,"None:No matching concept","Negative (qualifier value)","2020-03-07 00:00:00","None:No matching concept","No matching concept",NULL,NULL,0,NULL,7,10
+1,1002061,"LOINC:94040-3","Adenovirus A+B+C+D+E DNA [Presence] in Respiratory specimen by NAA with probe detection",NULL,"None:No matching concept","Negative (qualifier value)","2020-03-07 00:00:00","None:No matching concept","No matching concept",NULL,NULL,0,NULL,7,11
+1,37021252,"LOINC:92141-1","Influenza virus B RNA [Presence] in Respiratory specimen by NAA with probe detection",NULL,"None:No matching concept","Negative (qualifier value)","2020-03-07 00:00:00","None:No matching concept","No matching concept",NULL,NULL,0,NULL,7,12
+1,37019589,"LOINC:92140-3","Parainfluenza virus 1 RNA [Presence] in Respiratory specimen by NAA with probe detection",NULL,"None:No matching concept","Negative (qualifier value)","2020-03-07 00:00:00","None:No matching concept","No matching concept",NULL,NULL,0,NULL,7,13
+1,37020808,"LOINC:92134-6","Human metapneumovirus RNA [Presence] in Respiratory specimen by NAA with probe detection",NULL,"None:No matching concept","Negative (qualifier value)","2020-03-07 00:00:00","None:No matching concept","No matching concept",NULL,NULL,0,NULL,7,14
+1,37021152,"LOINC:92131-2","Respiratory syncytial virus RNA [Presence] in Respiratory specimen by NAA with probe detection",NULL,"None:No matching concept","Negative (qualifier value)","2020-03-07 00:00:00","None:No matching concept","No matching concept",NULL,NULL,0,NULL,7,15
+1,3027018,"LOINC:8867-4","Heart rate",77.2,"None:No matching concept","77.2","2020-03-07 00:00:00","UCUM:/min","per minute",NULL,NULL,8541,"/min",7,16
+1,3024171,"LOINC:9279-1","Respiratory rate",14.2,"None:No matching concept","14.2","2020-03-07 00:00:00","UCUM:/min","per minute",NULL,NULL,8541,"/min",7,17
+1,3027018,"LOINC:8867-4","Heart rate",68.0,"None:No matching concept","68.0","2020-07-09 00:00:00","UCUM:/min","per minute",NULL,NULL,8541,"/min",10,1
+1,3024171,"LOINC:9279-1","Respiratory rate",15.0,"None:No matching concept","15.0","2020-07-09 00:00:00","UCUM:/min","per minute",NULL,NULL,8541,"/min",10,2
+1,3004249,"LOINC:8480-6","Systolic blood pressure",117.0,"None:No matching concept","117.0","2020-07-09 00:00:00","UCUM:mm[Hg]","millimeter mercury column",NULL,NULL,8876,"mm[Hg]",10,3
+1,3012888,"LOINC:8462-4","Diastolic blood pressure",90.0,"None:No matching concept","90.0","2020-07-09 00:00:00","UCUM:mm[Hg]","millimeter mercury column",NULL,NULL,8876,"mm[Hg]",10,4
+1,3025315,"LOINC:29463-7","Body weight",53.6,"None:No matching concept","53.6","2020-07-09 00:00:00","UCUM:kg","kilogram",NULL,NULL,9529,"kg",10,5
+1,40762638,"LOINC:59576-9","Body mass index (BMI) [Percentile] Per age and sex",16.5,"None:No matching concept","16.5","2020-07-09 00:00:00","UCUM:%","percent",NULL,NULL,8554,"%",10,6
+1,3038553,"LOINC:39156-5","Body mass index (BMI) [Ratio]",19.0,"None:No matching concept","19.0","2020-07-09 00:00:00","UCUM:kg/m2","kilogram per square meter",NULL,NULL,9531,"kg/m2",10,7
+1,43055141,"LOINC:72514-3","Pain severity - 0-10 verbal numeric rating [Score] - Reported",4.0,"None:No matching concept","4.0","2020-07-09 00:00:00","None:No matching concept","No matching concept",NULL,NULL,0,"{score}",10,8
+1,3036277,"LOINC:8302-2","Body height",167.8,"None:No matching concept","167.8","2020-07-09 00:00:00","UCUM:cm","centimeter",NULL,NULL,8582,"cm",10,9
+1,43055141,"LOINC:72514-3","Pain severity - 0-10 verbal numeric rating [Score] - Reported",0.0,"None:No matching concept","0.0","2021-07-15 00:00:00","None:No matching concept","No matching concept",NULL,NULL,0,"{score}",22,1
+1,3036277,"LOINC:8302-2","Body height",167.9,"None:No matching concept","167.9","2021-07-15 00:00:00","UCUM:cm","centimeter",NULL,NULL,8582,"cm",22,2
+1,3027018,"LOINC:8867-4","Heart rate",84.0,"None:No matching concept","84.0","2021-07-15 00:00:00","UCUM:/min","per minute",NULL,NULL,8541,"/min",22,3
+1,3024171,"LOINC:9279-1","Respiratory rate",15.0,"None:No matching concept","15.0","2021-07-15 00:00:00","UCUM:/min","per minute",NULL,NULL,8541,"/min",22,4
+1,3004249,"LOINC:8480-6","Systolic blood pressure",117.0,"None:No matching concept","117.0","2021-07-15 00:00:00","UCUM:mm[Hg]","millimeter mercury column",NULL,NULL,8876,"mm[Hg]",22,5
+1,3025315,"LOINC:29463-7","Body weight",54.8,"None:No matching concept","54.8","2021-07-15 00:00:00","UCUM:kg","kilogram",NULL,NULL,9529,"kg",22,6
+1,3012888,"LOINC:8462-4","Diastolic blood pressure",75.0,"None:No matching concept","75.0","2021-07-15 00:00:00","UCUM:mm[Hg]","millimeter mercury column",NULL,NULL,8876,"mm[Hg]",22,7
+1,3038553,"LOINC:39156-5","Body mass index (BMI) [Ratio]",19.4,"None:No matching concept","19.4","2021-07-15 00:00:00","UCUM:kg/m2","kilogram per square meter",NULL,NULL,9531,"kg/m2",22,8
+1,4052083,"SNOMED:23426006","Measurement of respiratory function",NULL,"None:No matching concept",NULL,"2021-07-27 00:00:00","None:No matching concept","No matching concept",NULL,NULL,0,NULL,16,1
+1,3036277,"LOINC:8302-2","Body height",167.9,"None:No matching concept","167.9","2021-08-05 00:00:00","UCUM:cm","centimeter",NULL,NULL,8582,"cm",19,1
+1,43055141,"LOINC:72514-3","Pain severity - 0-10 verbal numeric rating [Score] - Reported",1.0,"None:No matching concept","1.0","2021-08-05 00:00:00","None:No matching concept","No matching concept",NULL,NULL,0,"{score}",19,2
+1,3024171,"LOINC:9279-1","Respiratory rate",13.0,"None:No matching concept","13.0","2021-08-05 00:00:00","UCUM:/min","per minute",NULL,NULL,8541,"/min",19,3
+1,3027018,"LOINC:8867-4","Heart rate",78.0,"None:No matching concept","78.0","2021-08-05 00:00:00","UCUM:/min","per minute",NULL,NULL,8541,"/min",19,4
+1,3025315,"LOINC:29463-7","Body weight",54.8,"None:No matching concept","54.8","2021-08-05 00:00:00","UCUM:kg","kilogram",NULL,NULL,9529,"kg",19,5
+1,3004249,"LOINC:8480-6","Systolic blood pressure",119.0,"None:No matching concept","119.0","2021-08-05 00:00:00","UCUM:mm[Hg]","millimeter mercury column",NULL,NULL,8876,"mm[Hg]",19,6
+1,3012888,"LOINC:8462-4","Diastolic blood pressure",74.0,"None:No matching concept","74.0","2021-08-05 00:00:00","UCUM:mm[Hg]","millimeter mercury column",NULL,NULL,8876,"mm[Hg]",19,7
+1,3038553,"LOINC:39156-5","Body mass index (BMI) [Ratio]",19.4,"None:No matching concept","19.4","2021-08-05 00:00:00","UCUM:kg/m2","kilogram per square meter",NULL,NULL,9531,"kg/m2",19,8

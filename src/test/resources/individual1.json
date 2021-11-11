@@ -1,0 +1,2849 @@
+{
+  "id": "N3C:1",
+  "subject": {
+    "id": "1",
+    "dateOfBirth": "2001-05-09T21:00:00Z",
+    "sex": "FEMALE"
+  },
+  "measurements": [{
+    "assay": {
+      "id": "LOINC:8462-4",
+      "label": "Diastolic blood pressure"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:mm[Hg]",
+          "label": "millimeter mercury column"
+        },
+        "value": 87.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2012-05-23T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:785-6",
+      "label": "MCH [Entitic mass] by Automated count"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:pg",
+          "label": "picogram"
+        },
+        "value": 27.9
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2012-05-23T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:8480-6",
+      "label": "Systolic blood pressure"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:mm[Hg]",
+          "label": "millimeter mercury column"
+        },
+        "value": 132.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2012-05-23T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:39156-5",
+      "label": "Body mass index (BMI) [Ratio]"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:kg/m2",
+          "label": "kilogram per square meter"
+        },
+        "value": 16.9
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2012-05-23T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:72514-3",
+      "label": "Pain severity - 0-10 verbal numeric rating [Score] - Reported"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "None:No matching concept",
+          "label": "{score}"
+        },
+        "value": 1.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2012-05-23T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:6690-2",
+      "label": "Leukocytes [#/volume] in Blood by Automated count"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:10*3/uL",
+          "label": "thousand per microliter"
+        },
+        "value": 9.5
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2012-05-23T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:777-3",
+      "label": "Platelets [#/volume] in Blood by Automated count"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:10*3/uL",
+          "label": "thousand per microliter"
+        },
+        "value": 246.7
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2012-05-23T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:59576-9",
+      "label": "Body mass index (BMI) [Percentile] Per age and sex"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:%",
+          "label": "percent"
+        },
+        "value": 40.4
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2012-05-23T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:9279-1",
+      "label": "Respiratory rate"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:/min",
+          "label": "per minute"
+        },
+        "value": 13.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2012-05-23T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:8867-4",
+      "label": "Heart rate"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:/min",
+          "label": "per minute"
+        },
+        "value": 82.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2012-05-23T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:4544-3",
+      "label": "Hematocrit [Volume Fraction] of Blood by Automated count"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:%",
+          "label": "percent"
+        },
+        "value": 47.5
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2012-05-23T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:8302-2",
+      "label": "Body height"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:cm",
+          "label": "centimeter"
+        },
+        "value": 149.4
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2012-05-23T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:789-8",
+      "label": "Erythrocytes [#/volume] in Blood by Automated count"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:10*6/uL",
+          "label": "million per microliter"
+        },
+        "value": 5.3
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2012-05-23T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:29463-7",
+      "label": "Body weight"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:kg",
+          "label": "kilogram"
+        },
+        "value": 37.7
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2012-05-23T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:32623-1",
+      "label": "Platelet mean volume [Entitic volume] in Blood by Automated count"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:fL",
+          "label": "femtoliter"
+        },
+        "value": 9.7
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2012-05-23T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:787-2",
+      "label": "MCV [Entitic volume] by Automated count"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:fL",
+          "label": "femtoliter"
+        },
+        "value": 81.9
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2012-05-23T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:21000-5",
+      "label": "Erythrocyte distribution width [Entitic volume] by Automated count"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:fL",
+          "label": "femtoliter"
+        },
+        "value": 44.3
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2012-05-23T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:32207-3",
+      "label": "Platelet distribution width [Entitic volume] in Blood by Automated count"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:fL",
+          "label": "femtoliter"
+        },
+        "value": 297.4
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2012-05-23T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:786-4",
+      "label": "MCHC [Mass/volume] by Automated count"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:g/dL",
+          "label": "gram per deciliter"
+        },
+        "value": 33.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2012-05-23T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:718-7",
+      "label": "Hemoglobin [Mass/volume] in Blood"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:g/dL",
+          "label": "gram per deciliter"
+        },
+        "value": 15.6
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2012-05-23T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:29463-7",
+      "label": "Body weight"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:kg",
+          "label": "kilogram"
+        },
+        "value": 42.5
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2013-05-29T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:39156-5",
+      "label": "Body mass index (BMI) [Ratio]"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:kg/m2",
+          "label": "kilogram per square meter"
+        },
+        "value": 17.3
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2013-05-29T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:72514-3",
+      "label": "Pain severity - 0-10 verbal numeric rating [Score] - Reported"
+    },
+    "value": {
+      "ontologyClass": {
+        "id": "None:No matching concept",
+        "label": "0.0"
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2013-05-29T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:8462-4",
+      "label": "Diastolic blood pressure"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:mm[Hg]",
+          "label": "millimeter mercury column"
+        },
+        "value": 86.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2013-05-29T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:8480-6",
+      "label": "Systolic blood pressure"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:mm[Hg]",
+          "label": "millimeter mercury column"
+        },
+        "value": 112.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2013-05-29T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:9279-1",
+      "label": "Respiratory rate"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:/min",
+          "label": "per minute"
+        },
+        "value": 13.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2013-05-29T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:59576-9",
+      "label": "Body mass index (BMI) [Percentile] Per age and sex"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:%",
+          "label": "percent"
+        },
+        "value": 37.8
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2013-05-29T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:8302-2",
+      "label": "Body height"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:cm",
+          "label": "centimeter"
+        },
+        "value": 156.7
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2013-05-29T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:8867-4",
+      "label": "Heart rate"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:/min",
+          "label": "per minute"
+        },
+        "value": 71.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2013-05-29T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:59576-9",
+      "label": "Body mass index (BMI) [Percentile] Per age and sex"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:%",
+          "label": "percent"
+        },
+        "value": 44.5
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2014-06-04T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:8867-4",
+      "label": "Heart rate"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:/min",
+          "label": "per minute"
+        },
+        "value": 97.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2014-06-04T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:8302-2",
+      "label": "Body height"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:cm",
+          "label": "centimeter"
+        },
+        "value": 162.2
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2014-06-04T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:9279-1",
+      "label": "Respiratory rate"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:/min",
+          "label": "per minute"
+        },
+        "value": 16.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2014-06-04T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:29463-7",
+      "label": "Body weight"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:kg",
+          "label": "kilogram"
+        },
+        "value": 48.3
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2014-06-04T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:8462-4",
+      "label": "Diastolic blood pressure"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:mm[Hg]",
+          "label": "millimeter mercury column"
+        },
+        "value": 79.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2014-06-04T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:39156-5",
+      "label": "Body mass index (BMI) [Ratio]"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:kg/m2",
+          "label": "kilogram per square meter"
+        },
+        "value": 18.4
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2014-06-04T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:72514-3",
+      "label": "Pain severity - 0-10 verbal numeric rating [Score] - Reported"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "None:No matching concept",
+          "label": "{score}"
+        },
+        "value": 2.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2014-06-04T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:8480-6",
+      "label": "Systolic blood pressure"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:mm[Hg]",
+          "label": "millimeter mercury column"
+        },
+        "value": 117.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2014-06-04T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:8480-6",
+      "label": "Systolic blood pressure"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:mm[Hg]",
+          "label": "millimeter mercury column"
+        },
+        "value": 117.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2015-06-10T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:8462-4",
+      "label": "Diastolic blood pressure"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:mm[Hg]",
+          "label": "millimeter mercury column"
+        },
+        "value": 77.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2015-06-10T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:72514-3",
+      "label": "Pain severity - 0-10 verbal numeric rating [Score] - Reported"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "None:No matching concept",
+          "label": "{score}"
+        },
+        "value": 4.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2015-06-10T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:39156-5",
+      "label": "Body mass index (BMI) [Ratio]"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:kg/m2",
+          "label": "kilogram per square meter"
+        },
+        "value": 21.4
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2015-06-10T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:59576-9",
+      "label": "Body mass index (BMI) [Percentile] Per age and sex"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:%",
+          "label": "percent"
+        },
+        "value": 71.7
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2015-06-10T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:8867-4",
+      "label": "Heart rate"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:/min",
+          "label": "per minute"
+        },
+        "value": 76.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2015-06-10T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:8302-2",
+      "label": "Body height"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:cm",
+          "label": "centimeter"
+        },
+        "value": 165.3
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2015-06-10T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:9279-1",
+      "label": "Respiratory rate"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:/min",
+          "label": "per minute"
+        },
+        "value": 14.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2015-06-10T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:29463-7",
+      "label": "Body weight"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:kg",
+          "label": "kilogram"
+        },
+        "value": 58.3
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2015-06-10T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:29463-7",
+      "label": "Body weight"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:kg",
+          "label": "kilogram"
+        },
+        "value": 60.9
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2016-06-15T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:72514-3",
+      "label": "Pain severity - 0-10 verbal numeric rating [Score] - Reported"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "None:No matching concept",
+          "label": "{score}"
+        },
+        "value": 3.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2016-06-15T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:8480-6",
+      "label": "Systolic blood pressure"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:mm[Hg]",
+          "label": "millimeter mercury column"
+        },
+        "value": 120.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2016-06-15T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:8462-4",
+      "label": "Diastolic blood pressure"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:mm[Hg]",
+          "label": "millimeter mercury column"
+        },
+        "value": 84.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2016-06-15T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:39156-5",
+      "label": "Body mass index (BMI) [Ratio]"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:kg/m2",
+          "label": "kilogram per square meter"
+        },
+        "value": 22.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2016-06-15T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:8302-2",
+      "label": "Body height"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:cm",
+          "label": "centimeter"
+        },
+        "value": 166.6
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2016-06-15T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:59576-9",
+      "label": "Body mass index (BMI) [Percentile] Per age and sex"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:%",
+          "label": "percent"
+        },
+        "value": 71.6
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2016-06-15T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:9279-1",
+      "label": "Respiratory rate"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:/min",
+          "label": "per minute"
+        },
+        "value": 15.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2016-06-15T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:8867-4",
+      "label": "Heart rate"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:/min",
+          "label": "per minute"
+        },
+        "value": 75.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2016-06-15T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:9279-1",
+      "label": "Respiratory rate"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:/min",
+          "label": "per minute"
+        },
+        "value": 13.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2017-06-21T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:8302-2",
+      "label": "Body height"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:cm",
+          "label": "centimeter"
+        },
+        "value": 167.2
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2017-06-21T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:59576-9",
+      "label": "Body mass index (BMI) [Percentile] Per age and sex"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:%",
+          "label": "percent"
+        },
+        "value": 59.8
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2017-06-21T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:4544-3",
+      "label": "Hematocrit [Volume Fraction] of Blood by Automated count"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:%",
+          "label": "percent"
+        },
+        "value": 35.2
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2017-06-21T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:8867-4",
+      "label": "Heart rate"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:/min",
+          "label": "per minute"
+        },
+        "value": 99.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2017-06-21T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:789-8",
+      "label": "Erythrocytes [#/volume] in Blood by Automated count"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:10*6/uL",
+          "label": "million per microliter"
+        },
+        "value": 4.5
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2017-06-21T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:21000-5",
+      "label": "Erythrocyte distribution width [Entitic volume] by Automated count"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:fL",
+          "label": "femtoliter"
+        },
+        "value": 43.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2017-06-21T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:718-7",
+      "label": "Hemoglobin [Mass/volume] in Blood"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:g/dL",
+          "label": "gram per deciliter"
+        },
+        "value": 14.9
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2017-06-21T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:32207-3",
+      "label": "Platelet distribution width [Entitic volume] in Blood by Automated count"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:fL",
+          "label": "femtoliter"
+        },
+        "value": 515.1
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2017-06-21T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:787-2",
+      "label": "MCV [Entitic volume] by Automated count"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:fL",
+          "label": "femtoliter"
+        },
+        "value": 92.6
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2017-06-21T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:32623-1",
+      "label": "Platelet mean volume [Entitic volume] in Blood by Automated count"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:fL",
+          "label": "femtoliter"
+        },
+        "value": 12.2
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2017-06-21T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:786-4",
+      "label": "MCHC [Mass/volume] by Automated count"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:g/dL",
+          "label": "gram per deciliter"
+        },
+        "value": 34.2
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2017-06-21T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:29463-7",
+      "label": "Body weight"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:kg",
+          "label": "kilogram"
+        },
+        "value": 59.5
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2017-06-21T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:8462-4",
+      "label": "Diastolic blood pressure"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:mm[Hg]",
+          "label": "millimeter mercury column"
+        },
+        "value": 73.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2017-06-21T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:6690-2",
+      "label": "Leukocytes [#/volume] in Blood by Automated count"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:10*3/uL",
+          "label": "thousand per microliter"
+        },
+        "value": 8.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2017-06-21T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:777-3",
+      "label": "Platelets [#/volume] in Blood by Automated count"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:10*3/uL",
+          "label": "thousand per microliter"
+        },
+        "value": 363.8
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2017-06-21T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:8480-6",
+      "label": "Systolic blood pressure"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:mm[Hg]",
+          "label": "millimeter mercury column"
+        },
+        "value": 129.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2017-06-21T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:785-6",
+      "label": "MCH [Entitic mass] by Automated count"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:pg",
+          "label": "picogram"
+        },
+        "value": 31.7
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2017-06-21T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:39156-5",
+      "label": "Body mass index (BMI) [Ratio]"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:kg/m2",
+          "label": "kilogram per square meter"
+        },
+        "value": 21.3
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2017-06-21T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:72514-3",
+      "label": "Pain severity - 0-10 verbal numeric rating [Score] - Reported"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "None:No matching concept",
+          "label": "{score}"
+        },
+        "value": 3.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2017-06-21T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:8462-4",
+      "label": "Diastolic blood pressure"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:mm[Hg]",
+          "label": "millimeter mercury column"
+        },
+        "value": 85.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2018-06-27T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:39156-5",
+      "label": "Body mass index (BMI) [Ratio]"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:kg/m2",
+          "label": "kilogram per square meter"
+        },
+        "value": 20.4
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2018-06-27T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:8480-6",
+      "label": "Systolic blood pressure"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:mm[Hg]",
+          "label": "millimeter mercury column"
+        },
+        "value": 119.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2018-06-27T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:72514-3",
+      "label": "Pain severity - 0-10 verbal numeric rating [Score] - Reported"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "None:No matching concept",
+          "label": "{score}"
+        },
+        "value": 4.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2018-06-27T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:8867-4",
+      "label": "Heart rate"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:/min",
+          "label": "per minute"
+        },
+        "value": 84.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2018-06-27T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:8302-2",
+      "label": "Body height"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:cm",
+          "label": "centimeter"
+        },
+        "value": 167.5
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2018-06-27T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:59576-9",
+      "label": "Body mass index (BMI) [Percentile] Per age and sex"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:%",
+          "label": "percent"
+        },
+        "value": 42.5
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2018-06-27T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:9279-1",
+      "label": "Respiratory rate"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:/min",
+          "label": "per minute"
+        },
+        "value": 13.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2018-06-27T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:29463-7",
+      "label": "Body weight"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:kg",
+          "label": "kilogram"
+        },
+        "value": 57.2
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2018-06-27T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:29463-7",
+      "label": "Body weight"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:kg",
+          "label": "kilogram"
+        },
+        "value": 55.7
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2019-07-03T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:8462-4",
+      "label": "Diastolic blood pressure"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:mm[Hg]",
+          "label": "millimeter mercury column"
+        },
+        "value": 114.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2019-07-03T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:8480-6",
+      "label": "Systolic blood pressure"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:mm[Hg]",
+          "label": "millimeter mercury column"
+        },
+        "value": 146.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2019-07-03T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:72514-3",
+      "label": "Pain severity - 0-10 verbal numeric rating [Score] - Reported"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "None:No matching concept",
+          "label": "{score}"
+        },
+        "value": 1.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2019-07-03T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:39156-5",
+      "label": "Body mass index (BMI) [Ratio]"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:kg/m2",
+          "label": "kilogram per square meter"
+        },
+        "value": 19.8
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2019-07-03T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:8867-4",
+      "label": "Heart rate"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:/min",
+          "label": "per minute"
+        },
+        "value": 81.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2019-07-03T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:9279-1",
+      "label": "Respiratory rate"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:/min",
+          "label": "per minute"
+        },
+        "value": 14.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2019-07-03T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:59576-9",
+      "label": "Body mass index (BMI) [Percentile] Per age and sex"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:%",
+          "label": "percent"
+        },
+        "value": 29.7
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2019-07-03T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:8302-2",
+      "label": "Body height"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:cm",
+          "label": "centimeter"
+        },
+        "value": 167.7
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2019-07-03T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:8462-4",
+      "label": "Diastolic blood pressure"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:mm[Hg]",
+          "label": "millimeter mercury column"
+        },
+        "value": 99.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2019-08-02T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:8480-6",
+      "label": "Systolic blood pressure"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:mm[Hg]",
+          "label": "millimeter mercury column"
+        },
+        "value": 161.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2019-08-02T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:8462-4",
+      "label": "Diastolic blood pressure"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:mm[Hg]",
+          "label": "millimeter mercury column"
+        },
+        "value": 75.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2019-10-01T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:8480-6",
+      "label": "Systolic blood pressure"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:mm[Hg]",
+          "label": "millimeter mercury column"
+        },
+        "value": 110.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2019-10-01T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:8462-4",
+      "label": "Diastolic blood pressure"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:mm[Hg]",
+          "label": "millimeter mercury column"
+        },
+        "value": 71.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2019-11-30T22:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:8480-6",
+      "label": "Systolic blood pressure"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:mm[Hg]",
+          "label": "millimeter mercury column"
+        },
+        "value": 127.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2019-11-30T22:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:92142-9",
+      "label": "Influenza virus A RNA [Presence] in Respiratory specimen by NAA with probe detection"
+    },
+    "value": {
+      "ontologyClass": {
+        "id": "None:No matching concept",
+        "label": "Negative (qualifier value)"
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2020-03-06T22:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:92138-7",
+      "label": "Parainfluenza virus 3 RNA [Presence] in Respiratory specimen by NAA with probe detection"
+    },
+    "value": {
+      "ontologyClass": {
+        "id": "None:No matching concept",
+        "label": "Negative (qualifier value)"
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2020-03-06T22:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:92139-5",
+      "label": "Parainfluenza virus 2 RNA [Presence] in Respiratory specimen by NAA with probe detection"
+    },
+    "value": {
+      "ontologyClass": {
+        "id": "None:No matching concept",
+        "label": "Negative (qualifier value)"
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2020-03-06T22:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:92134-6",
+      "label": "Human metapneumovirus RNA [Presence] in Respiratory specimen by NAA with probe detection"
+    },
+    "value": {
+      "ontologyClass": {
+        "id": "None:No matching concept",
+        "label": "Negative (qualifier value)"
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2020-03-06T22:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:92131-2",
+      "label": "Respiratory syncytial virus RNA [Presence] in Respiratory specimen by NAA with probe detection"
+    },
+    "value": {
+      "ontologyClass": {
+        "id": "None:No matching concept",
+        "label": "Negative (qualifier value)"
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2020-03-06T22:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:92130-4",
+      "label": "Rhinovirus RNA [Presence] in Respiratory specimen by NAA with probe detection"
+    },
+    "value": {
+      "ontologyClass": {
+        "id": "None:No matching concept",
+        "label": "Negative (qualifier value)"
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2020-03-06T22:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:94040-3",
+      "label": "Adenovirus A+B+C+D+E DNA [Presence] in Respiratory specimen by NAA with probe detection"
+    },
+    "value": {
+      "ontologyClass": {
+        "id": "None:No matching concept",
+        "label": "Negative (qualifier value)"
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2020-03-06T22:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:92141-1",
+      "label": "Influenza virus B RNA [Presence] in Respiratory specimen by NAA with probe detection"
+    },
+    "value": {
+      "ontologyClass": {
+        "id": "None:No matching concept",
+        "label": "Negative (qualifier value)"
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2020-03-06T22:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:8462-4",
+      "label": "Diastolic blood pressure"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:mm[Hg]",
+          "label": "millimeter mercury column"
+        },
+        "value": 81.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2020-03-06T22:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:92140-3",
+      "label": "Parainfluenza virus 1 RNA [Presence] in Respiratory specimen by NAA with probe detection"
+    },
+    "value": {
+      "ontologyClass": {
+        "id": "None:No matching concept",
+        "label": "Negative (qualifier value)"
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2020-03-06T22:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:8480-6",
+      "label": "Systolic blood pressure"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:mm[Hg]",
+          "label": "millimeter mercury column"
+        },
+        "value": 128.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2020-03-06T22:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:94531-1",
+      "label": "SARS-CoV-2 (COVID-19) RNA panel - Respiratory specimen by NAA with probe detection"
+    },
+    "value": {
+      "ontologyClass": {
+        "id": "None:No matching concept",
+        "label": "Detected (qualifier value)"
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2020-03-06T22:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:29463-7",
+      "label": "Body weight"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:kg",
+          "label": "kilogram"
+        },
+        "value": 54.1
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2020-03-06T22:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:9279-1",
+      "label": "Respiratory rate"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:/min",
+          "label": "per minute"
+        },
+        "value": 14.2
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2020-03-06T22:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:8310-5",
+      "label": "Body temperature"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:Cel",
+          "label": "degree Celsius"
+        },
+        "value": 41.2
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2020-03-06T22:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:2708-6",
+      "label": "Oxygen saturation in Arterial blood"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:%",
+          "label": "percent"
+        },
+        "value": 82.7
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2020-03-06T22:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:8867-4",
+      "label": "Heart rate"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:/min",
+          "label": "per minute"
+        },
+        "value": 77.2
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2020-03-06T22:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:8867-4",
+      "label": "Heart rate"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:/min",
+          "label": "per minute"
+        },
+        "value": 68.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2020-07-08T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:59576-9",
+      "label": "Body mass index (BMI) [Percentile] Per age and sex"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:%",
+          "label": "percent"
+        },
+        "value": 16.5
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2020-07-08T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:9279-1",
+      "label": "Respiratory rate"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:/min",
+          "label": "per minute"
+        },
+        "value": 15.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2020-07-08T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:8302-2",
+      "label": "Body height"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:cm",
+          "label": "centimeter"
+        },
+        "value": 167.8
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2020-07-08T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:72514-3",
+      "label": "Pain severity - 0-10 verbal numeric rating [Score] - Reported"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "None:No matching concept",
+          "label": "{score}"
+        },
+        "value": 4.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2020-07-08T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:39156-5",
+      "label": "Body mass index (BMI) [Ratio]"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:kg/m2",
+          "label": "kilogram per square meter"
+        },
+        "value": 19.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2020-07-08T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:8462-4",
+      "label": "Diastolic blood pressure"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:mm[Hg]",
+          "label": "millimeter mercury column"
+        },
+        "value": 90.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2020-07-08T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:8480-6",
+      "label": "Systolic blood pressure"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:mm[Hg]",
+          "label": "millimeter mercury column"
+        },
+        "value": 117.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2020-07-08T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:29463-7",
+      "label": "Body weight"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:kg",
+          "label": "kilogram"
+        },
+        "value": 53.6
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2020-07-08T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:29463-7",
+      "label": "Body weight"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:kg",
+          "label": "kilogram"
+        },
+        "value": 54.8
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2021-07-14T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:9279-1",
+      "label": "Respiratory rate"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:/min",
+          "label": "per minute"
+        },
+        "value": 15.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2021-07-14T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:8867-4",
+      "label": "Heart rate"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:/min",
+          "label": "per minute"
+        },
+        "value": 84.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2021-07-14T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:8302-2",
+      "label": "Body height"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:cm",
+          "label": "centimeter"
+        },
+        "value": 167.9
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2021-07-14T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:8480-6",
+      "label": "Systolic blood pressure"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:mm[Hg]",
+          "label": "millimeter mercury column"
+        },
+        "value": 117.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2021-07-14T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:39156-5",
+      "label": "Body mass index (BMI) [Ratio]"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:kg/m2",
+          "label": "kilogram per square meter"
+        },
+        "value": 19.4
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2021-07-14T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:72514-3",
+      "label": "Pain severity - 0-10 verbal numeric rating [Score] - Reported"
+    },
+    "value": {
+      "ontologyClass": {
+        "id": "None:No matching concept",
+        "label": "0.0"
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2021-07-14T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:8462-4",
+      "label": "Diastolic blood pressure"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:mm[Hg]",
+          "label": "millimeter mercury column"
+        },
+        "value": 75.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2021-07-14T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "SNOMED:23426006",
+      "label": "Measurement of respiratory function"
+    },
+    "value": {
+      "ontologyClass": {
+        "id": "None:No matching concept"
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2021-07-26T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:8480-6",
+      "label": "Systolic blood pressure"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:mm[Hg]",
+          "label": "millimeter mercury column"
+        },
+        "value": 119.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2021-08-04T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:8462-4",
+      "label": "Diastolic blood pressure"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:mm[Hg]",
+          "label": "millimeter mercury column"
+        },
+        "value": 74.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2021-08-04T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:39156-5",
+      "label": "Body mass index (BMI) [Ratio]"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:kg/m2",
+          "label": "kilogram per square meter"
+        },
+        "value": 19.4
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2021-08-04T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:72514-3",
+      "label": "Pain severity - 0-10 verbal numeric rating [Score] - Reported"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "None:No matching concept",
+          "label": "{score}"
+        },
+        "value": 1.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2021-08-04T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:8867-4",
+      "label": "Heart rate"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:/min",
+          "label": "per minute"
+        },
+        "value": 78.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2021-08-04T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:8302-2",
+      "label": "Body height"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:cm",
+          "label": "centimeter"
+        },
+        "value": 167.9
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2021-08-04T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:9279-1",
+      "label": "Respiratory rate"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:/min",
+          "label": "per minute"
+        },
+        "value": 13.0
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2021-08-04T21:00:00Z"
+    }
+  }, {
+    "assay": {
+      "id": "LOINC:29463-7",
+      "label": "Body weight"
+    },
+    "value": {
+      "quantity": {
+        "unit": {
+          "id": "UCUM:kg",
+          "label": "kilogram"
+        },
+        "value": 54.8
+      }
+    },
+    "timeObserved": {
+      "timestamp": "2021-08-04T21:00:00Z"
+    }
+  }],
+  "diseases": [{
+    "term": {
+      "id": "SNOMED:10509002",
+      "label": "Acute bronchitis"
+    },
+    "onset": {
+      "timestamp": "2021-07-26T21:00:00Z"
+    },
+    "resolution": {
+      "timestamp": "2021-08-11T21:00:00Z"
+    }
+  }, {
+    "term": {
+      "id": "SNOMED:36955009",
+      "label": "Loss of taste"
+    },
+    "onset": {
+      "timestamp": "2020-03-06T22:00:00Z"
+    },
+    "resolution": {
+      "timestamp": "2020-04-03T21:00:00Z"
+    }
+  }, {
+    "term": {
+      "id": "SNOMED:386661006",
+      "label": "Fever"
+    },
+    "onset": {
+      "timestamp": "2020-03-06T22:00:00Z"
+    },
+    "resolution": {
+      "timestamp": "2020-04-03T21:00:00Z"
+    }
+  }, {
+    "term": {
+      "id": "SNOMED:59621000",
+      "label": "Essential hypertension"
+    },
+    "onset": {
+      "timestamp": "2019-07-03T21:00:00Z"
+    }
+  }, {
+    "term": {
+      "id": "SNOMED:840539006",
+      "label": "COVID-19"
+    },
+    "onset": {
+      "timestamp": "2020-03-06T22:00:00Z"
+    },
+    "resolution": {
+      "timestamp": "2020-04-03T21:00:00Z"
+    }
+  }],
+  "medicalActions": [{
+    "treatment": {
+      "agent": {
+        "id": "RxNorm:1605257",
+        "label": "levonorgestrel 0.000813 MG/HR Intrauterine System [Liletta]"
+      },
+      "routeOfAdministration": {
+        "id": "None:No matching concept",
+        "label": "No matching concept"
+      },
+      "doseIntervals": [{
+        "quantity": {
+          "unit": {
+            "id": ":"
+          }
+        },
+        "scheduleFrequency": {
+          "id": "None:No matching concept",
+          "label": "No matching concept"
+        },
+        "interval": {
+          "start": "2018-04-20T21:00:00Z",
+          "end": "2019-04-20T21:00:00Z"
+        }
+      }]
+    }
+  }, {
+    "treatment": {
+      "agent": {
+        "id": "RxNorm:308136",
+        "label": "amlodipine 2.5 MG Oral Tablet"
+      },
+      "routeOfAdministration": {
+        "id": "None:No matching concept",
+        "label": "No matching concept"
+      },
+      "doseIntervals": [{
+        "quantity": {
+          "unit": {
+            "id": "UCUM:mg",
+            "label": "milligram"
+          },
+          "value": 2.5
+        },
+        "scheduleFrequency": {
+          "id": "None:No matching concept",
+          "label": "No matching concept"
+        },
+        "interval": {
+          "start": "2020-07-08T21:00:00Z",
+          "end": "2021-07-14T21:00:00Z"
+        }
+      }]
+    }
+  }, {
+    "treatment": {
+      "agent": {
+        "id": "RxNorm:308136",
+        "label": "amlodipine 2.5 MG Oral Tablet"
+      },
+      "routeOfAdministration": {
+        "id": "None:No matching concept",
+        "label": "No matching concept"
+      },
+      "doseIntervals": [{
+        "quantity": {
+          "unit": {
+            "id": "UCUM:mg",
+            "label": "milligram"
+          },
+          "value": 2.5
+        },
+        "scheduleFrequency": {
+          "id": "None:No matching concept",
+          "label": "No matching concept"
+        },
+        "interval": {
+          "start": "2019-08-02T21:00:00Z",
+          "end": "2020-07-08T21:00:00Z"
+        }
+      }]
+    }
+  }, {
+    "treatment": {
+      "agent": {
+        "id": "RxNorm:308136",
+        "label": "amlodipine 2.5 MG Oral Tablet"
+      },
+      "routeOfAdministration": {
+        "id": "None:No matching concept",
+        "label": "No matching concept"
+      },
+      "doseIntervals": [{
+        "quantity": {
+          "unit": {
+            "id": "UCUM:mg",
+            "label": "milligram"
+          },
+          "value": 2.5
+        },
+        "scheduleFrequency": {
+          "id": "None:No matching concept",
+          "label": "No matching concept"
+        },
+        "interval": {
+          "start": "2021-07-14T21:00:00Z",
+          "end": "2021-08-04T21:00:00Z"
+        }
+      }]
+    }
+  }, {
+    "treatment": {
+      "agent": {
+        "id": "RxNorm:308136",
+        "label": "amlodipine 2.5 MG Oral Tablet"
+      },
+      "routeOfAdministration": {
+        "id": "None:No matching concept",
+        "label": "No matching concept"
+      },
+      "doseIntervals": [{
+        "quantity": {
+          "unit": {
+            "id": "UCUM:mg",
+            "label": "milligram"
+          },
+          "value": 2.5
+        },
+        "scheduleFrequency": {
+          "id": "None:No matching concept",
+          "label": "No matching concept"
+        },
+        "interval": {
+          "start": "2021-08-04T21:00:00Z",
+          "end": "2021-08-04T21:00:00Z"
+        }
+      }]
+    }
+  }, {
+    "treatment": {
+      "agent": {
+        "id": "RxNorm:310798",
+        "label": "hydrochlorothiazide 25 MG Oral Tablet"
+      },
+      "routeOfAdministration": {
+        "id": "None:No matching concept",
+        "label": "No matching concept"
+      },
+      "doseIntervals": [{
+        "quantity": {
+          "unit": {
+            "id": "UCUM:mg",
+            "label": "milligram"
+          },
+          "value": 25.0
+        },
+        "scheduleFrequency": {
+          "id": "None:No matching concept",
+          "label": "No matching concept"
+        },
+        "interval": {
+          "start": "2020-07-08T21:00:00Z",
+          "end": "2021-07-14T21:00:00Z"
+        }
+      }]
+    }
+  }, {
+    "treatment": {
+      "agent": {
+        "id": "RxNorm:310798",
+        "label": "hydrochlorothiazide 25 MG Oral Tablet"
+      },
+      "routeOfAdministration": {
+        "id": "None:No matching concept",
+        "label": "No matching concept"
+      },
+      "doseIntervals": [{
+        "quantity": {
+          "unit": {
+            "id": "UCUM:mg",
+            "label": "milligram"
+          },
+          "value": 25.0
+        },
+        "scheduleFrequency": {
+          "id": "None:No matching concept",
+          "label": "No matching concept"
+        },
+        "interval": {
+          "start": "2019-07-03T21:00:00Z",
+          "end": "2020-07-08T21:00:00Z"
+        }
+      }]
+    }
+  }, {
+    "treatment": {
+      "agent": {
+        "id": "RxNorm:310798",
+        "label": "hydrochlorothiazide 25 MG Oral Tablet"
+      },
+      "routeOfAdministration": {
+        "id": "None:No matching concept",
+        "label": "No matching concept"
+      },
+      "doseIntervals": [{
+        "quantity": {
+          "unit": {
+            "id": "UCUM:mg",
+            "label": "milligram"
+          },
+          "value": 25.0
+        },
+        "scheduleFrequency": {
+          "id": "None:No matching concept",
+          "label": "No matching concept"
+        },
+        "interval": {
+          "start": "2021-08-04T21:00:00Z",
+          "end": "2021-08-04T21:00:00Z"
+        }
+      }]
+    }
+  }, {
+    "treatment": {
+      "agent": {
+        "id": "RxNorm:310798",
+        "label": "hydrochlorothiazide 25 MG Oral Tablet"
+      },
+      "routeOfAdministration": {
+        "id": "None:No matching concept",
+        "label": "No matching concept"
+      },
+      "doseIntervals": [{
+        "quantity": {
+          "unit": {
+            "id": "UCUM:mg",
+            "label": "milligram"
+          },
+          "value": 25.0
+        },
+        "scheduleFrequency": {
+          "id": "None:No matching concept",
+          "label": "No matching concept"
+        },
+        "interval": {
+          "start": "2021-07-14T21:00:00Z",
+          "end": "2021-08-04T21:00:00Z"
+        }
+      }]
+    }
+  }, {
+    "treatment": {
+      "agent": {
+        "id": "RxNorm:313782",
+        "label": "acetaminophen 325 MG Oral Tablet"
+      },
+      "routeOfAdministration": {
+        "id": "None:No matching concept",
+        "label": "No matching concept"
+      },
+      "doseIntervals": [{
+        "quantity": {
+          "unit": {
+            "id": "UCUM:mg",
+            "label": "milligram"
+          },
+          "value": 325.0
+        },
+        "scheduleFrequency": {
+          "id": "None:No matching concept",
+          "label": "No matching concept"
+        },
+        "interval": {
+          "start": "2021-07-26T21:00:00Z",
+          "end": "2021-08-11T21:00:00Z"
+        }
+      }]
+    }
+  }, {
+    "treatment": {
+      "agent": {
+        "id": "RxNorm:978950",
+        "label": "{5 (dienogest 2 MG / estradiol valerate 2 MG Oral Tablet) / 17 (dienogest 3 MG / estradiol valerate 2 MG Oral Tablet) / 2 (estradiol valerate 1 MG Oral Tablet) / 2 (estradiol valerate 3 MG Oral Tablet) / 2 (inert ingredients 1 MG Oral Tablet) } Pack [N..."
+      },
+      "routeOfAdministration": {
+        "id": "None:No matching concept",
+        "label": "No matching concept"
+      },
+      "doseIntervals": [{
+        "quantity": {
+          "unit": {
+            "id": ":"
+          }
+        },
+        "scheduleFrequency": {
+          "id": "None:No matching concept",
+          "label": "No matching concept"
+        },
+        "interval": {
+          "start": "2020-04-14T21:00:00Z",
+          "end": "2021-04-09T21:00:00Z"
+        }
+      }]
+    }
+  }, {
+    "treatment": {
+      "agent": {
+        "id": "RxNorm:978950",
+        "label": "{5 (dienogest 2 MG / estradiol valerate 2 MG Oral Tablet) / 17 (dienogest 3 MG / estradiol valerate 2 MG Oral Tablet) / 2 (estradiol valerate 1 MG Oral Tablet) / 2 (estradiol valerate 3 MG Oral Tablet) / 2 (inert ingredients 1 MG Oral Tablet) } Pack [N..."
+      },
+      "routeOfAdministration": {
+        "id": "None:No matching concept",
+        "label": "No matching concept"
+      },
+      "doseIntervals": [{
+        "quantity": {
+          "unit": {
+            "id": ":"
+          }
+        },
+        "scheduleFrequency": {
+          "id": "None:No matching concept",
+          "label": "No matching concept"
+        },
+        "interval": {
+          "start": "2021-04-09T21:00:00Z",
+          "end": "2021-04-09T21:00:00Z"
+        }
+      }]
+    }
+  }, {
+    "procedure": {
+      "code": {
+        "id": "SNOMED:430193006",
+        "label": "Medication Reconciliation"
+      },
+      "performed": {
+        "timestamp": "2016-06-15T21:00:00Z"
+      }
+    }
+  }, {
+    "procedure": {
+      "code": {
+        "id": "SNOMED:430193006",
+        "label": "Medication Reconciliation"
+      },
+      "performed": {
+        "timestamp": "2021-08-04T21:00:00Z"
+      }
+    }
+  }, {
+    "procedure": {
+      "code": {
+        "id": "SNOMED:430193006",
+        "label": "Medication Reconciliation"
+      },
+      "performed": {
+        "timestamp": "2019-07-03T21:00:00Z"
+      }
+    }
+  }, {
+    "procedure": {
+      "code": {
+        "id": "SNOMED:430193006",
+        "label": "Medication Reconciliation"
+      },
+      "performed": {
+        "timestamp": "2021-07-14T21:00:00Z"
+      }
+    }
+  }, {
+    "procedure": {
+      "code": {
+        "id": "SNOMED:430193006",
+        "label": "Medication Reconciliation"
+      },
+      "performed": {
+        "timestamp": "2020-07-08T21:00:00Z"
+      }
+    }
+  }, {
+    "procedure": {
+      "code": {
+        "id": "SNOMED:65200003",
+        "label": "Insertion of intrauterine contraceptive device"
+      },
+      "performed": {
+        "timestamp": "2018-04-23T21:00:00Z"
+      }
+    }
+  }],
+  "metaData": {
+    "created": "2021-11-11T16:07:08.927839Z",
+    "createdBy": "OMOPackager",
+    "phenopacketSchemaVersion": "2.0"
+  }
+}

@@ -1,0 +1,16 @@
+"person_id","term_id","term_label","condition_source_value","excluded","onset_timestamp","resolution","clinical_tnm_finding_id","clinical_tnm_finding_label","primary_site_id","primary_site_label"
+755,"SNOMED:195662009","Acute viral pharyngitis","195662009",False,"1986-10-14","1986-10-22","SNOMED:4532008","Acute inflammation",NULL,NULL
+755,"SNOMED:195662009","Acute viral pharyngitis","195662009",False,"1987-05-25","1987-06-06","SNOMED:4532008","Acute inflammation",NULL,NULL
+755,"SNOMED:195662009","Acute viral pharyngitis","195662009",False,"1990-06-23","1990-07-01","SNOMED:4532008","Acute inflammation",NULL,NULL
+755,"SNOMED:230690007","Cerebrovascular accident","230690007",False,"1952-02-16",NULL,"SNOMED:37782003","Damage",NULL,NULL
+755,"SNOMED:254637007","Non-small cell lung cancer","254637007",False,"1992-06-03",NULL,"SNOMED:128632008","Non-small cell carcinoma",NULL,NULL
+755,"SNOMED:314994000","Metastasis from malignant tumor of prostate","314994000",False,"1995-05-06",NULL,"SNOMED:14799000","Neoplasm, metastatic",NULL,NULL
+755,"SNOMED:424132000","Non-small cell carcinoma of lung, TNM stage 1","424132000",False,"1992-06-06",NULL,"SNOMED:128632008","Non-small cell carcinoma",NULL,NULL
+755,"SNOMED:444814009","Viral sinusitis","444814009",False,"1989-06-08","1989-06-22","SNOMED:23583003","Inflammation",NULL,NULL
+755,"SNOMED:444814009","Viral sinusitis","444814009",False,"1990-03-26","1990-04-06","SNOMED:23583003","Inflammation",NULL,NULL
+755,"SNOMED:444814009","Viral sinusitis","444814009",False,"1989-06-08","1989-06-22","SNOMED:409774005","Inflammatory morphology",NULL,NULL
+755,"SNOMED:444814009","Viral sinusitis","444814009",False,"1990-03-26","1990-04-06","SNOMED:409774005","Inflammatory morphology",NULL,NULL
+755,"SNOMED:49436004","Atrial fibrillation","49436004",False,"1989-04-01",NULL,NULL,NULL,NULL,NULL
+755,"SNOMED:55822004","Hyperlipidemia","55822004",False,"1985-03-09",NULL,NULL,NULL,NULL,NULL
+755,"SNOMED:59621000","Essential hypertension","59621000",False,"1936-06-06",NULL,NULL,NULL,NULL,NULL
+755,"SNOMED:126906006","Neoplasm of prostate","126906006",False,"1995-05-06",NULL,"SNOMED:108369006","Neoplasm",NULL,NULL
